@@ -14,9 +14,9 @@
 
 Hello, I'm Kemalettin, I'm someone trying to learn new things every day...
 
-- 🔭 I’m currently working on [Lenger](https://kemalettinbas.net).
+- 🔭 I’m currently working on [My Website](https://kemalettinbas.net).
 - 🌱 I’m currently learning PHP!
-- 👯 I’m looking to collaborate on [Lenger](https://kemalettinbas.net). *backend dev pls*
+- 👯 I’m looking to collaborate on [My Website](https://kemalettinbas.net). *backend dev pls*
 - 💬 Ask me about anything [here](https://kemalettinbas.net/).
 
 **Languages and Tools:**  
