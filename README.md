@@ -2,13 +2,6 @@
 
 ### Hi there, I'm [Kemalettin](https://instagram.com/kemalettiinbas)! 👋
 
-<a href="https://www.instagram.com/kemaletiinbas">
-  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/instagram.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/twitter.svg" />
-</a>
-
 <br />
 <br />
 
