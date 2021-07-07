@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalettinbas&show_icons=true&locale=en&theme=dark" alt="kemalettinbas" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalettinbas&label=Profile%20views&color=0e75b6&style=flat" alt="kemalettinbas" /> </p>
+<p align="left"> <img src="https://badgen.net/github/stars/kemalettinbas/NobetciEczane" alt="kemalettinbas" /> </p>
