@@ -1,9 +1,8 @@
 <h1 align="center">Merhaba 👋, Ben Kemalettin</h1>
 <h3 align="center">Genç bir Türk Geliştiriciyim.</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalettinbas&label=Profile%20views&color=0e75b6&style=flat" alt="kemalettinbas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemalettinbas" alt="kemalettinbas" /></a> </p>
 
 - 🔭 Şuan ilgilendiğim projem; [Corona Virus Veri](https://github.com/kemalettinbas/Corona-Virus-Veri)
 
