@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Kemalettin</h1>
 <h3 align="center">Genç bir Türk Geliştirici olmak istiyen birisiyim.</h3>
 
-- 🔭 Şuan ilgilendiğim projem; [Corona Virus Veri](https://github.com/kemalettinbas/Corona-Virus-Veri)
+- 🔭 Şuan ilgilendiğim projem; [Korona Virüs Tablosu](https://github.com/kemalettinbas/Korona-Virus-Tablosu)
 
 - 🌱 Şuan öğrendiğim diller; **PHP (Hypertext Preprocessor), VB.Net (Visual Basic)**
 
